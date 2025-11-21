@@ -1,7 +1,7 @@
 s = input()
 n = len(s)
 
-ans = 0 
+ans = 1 
 lis = 1
 
 for i in range(1,n):
